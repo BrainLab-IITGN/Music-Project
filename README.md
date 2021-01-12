@@ -15,6 +15,7 @@ Two steps of preprocessing are completed -
 Electrode locations are provided, and the 129th electrode is Vertex Ref.
 
 Please refer to the following paper for more detail.
+
 Sonawane, D., Miyapuram, K. P., Rs, B., & Lomas, D. J. (2020). GuessTheMusic: song identification from electroencephalography response. arXiv preprint arXiv:2009.08793.
 
 This dataset is licensed under CC-BY Attribution. 
