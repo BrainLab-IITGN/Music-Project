@@ -1,4 +1,4 @@
-# Music-Project
+# Music-Project (BLMP)
 
 This repo contains EEG dataset collected on 20 participants at BrainLab, IIT Gandhinagar using 129 channels high-density Geodesic cap,
 consisting of 12 naturalistic stimuli(songs).
