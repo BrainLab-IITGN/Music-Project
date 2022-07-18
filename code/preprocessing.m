@@ -156,7 +156,7 @@ for k= 1:size(file_list)
         pre_info.eeg_len(k,i) = size(EEG.data,2);
         pre_info.eeg_srate(k,i) = EEG.srate;
        
-        song_id = 700+i;
+        song_id = 100+i;
         save(strcat(save_dir,'/',file_name(1:end-4),'_clean_', int2str(song_id), '.mat'),'EEG');
     end    
     save([save_dir,'/','pre_info','.mat'],'pre_info');
