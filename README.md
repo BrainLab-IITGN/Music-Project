@@ -5,8 +5,9 @@ consisting of 12 naturalistic stimuli(songs).
 
 Dataset is provided in the ".mat" format with initials as song_(song_ID).mat
 
-Every mat file contains the following structure
-electrodes * timepoints * subjects 
+Every mat file contains the following structure :
+
+Electrodes * Timepoints * Participants 
 
 Two steps of preprocessing are completed - 
 1. Filtered at 0.2 Hz
