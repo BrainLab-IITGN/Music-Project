@@ -1,5 +1,8 @@
-# This code is used to create envelope of stimuli and generate fft plots
+# This code is used to create envelope of stimuli and generate fft plots used in the following article.
 
+# Pandey, P., Ahmad, N., Miyapuram, K. P., & Lomas, D. (2021, December). 
+# Predicting dominant beat frequency from brain responses while listening to music. 
+# In 2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) (pp. 3058-3064). IEEE.
 
 clear all; clc;
 
