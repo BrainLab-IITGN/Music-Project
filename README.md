@@ -9,7 +9,7 @@ Every mat file contains the following structure
 electrodes * timepoints * subjects 
 
 Two steps of preprocessing are completed - 
-1. Filtered at 0.3 Hz
+1. Filtered at 0.2 Hz
 2. Downsampled at 250 Hz
 
 Electrode locations are provided, and the 129th electrode is Vertex Ref.
