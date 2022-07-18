@@ -1,5 +1,6 @@
 # This code is used to create envelope of stimuli and generate fft plots
 
+
 clear all; clc;
 
 
@@ -21,6 +22,7 @@ save('eeg_len','eeg_len');
 load('eeg_len.mat');
 
 %% Create Song Envelope   
+% Ref (https://github.com/dmochow/SRC/blob/master/extractStimulusFeatures.m)
 
 wav_path = '/mnt/sdc/Music/Music/Music_Project/Song_wav/';
 
